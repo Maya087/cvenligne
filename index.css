@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(250, 235, 215, 0.884);
+}
+p{
+    font-size: 15px;
+}
+p:hover{
+    color: rgba(137, 43, 226, 0.658);
+
+}
